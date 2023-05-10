@@ -1,0 +1,2 @@
+For the FTP challenge
+you must download the file by right-clicking on the start challenge button and copying the challenge link, after you open the download file in wireshark, then you click on the analyze button, after the follow button TCP stream finally you will see the username and password.
