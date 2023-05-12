@@ -1,0 +1,5 @@
+Ethernet Frame
+
+Open the link on "Start the challenge" then 
+Copy and decode the hex code between "Authorization: ....." and "==" into text finally
+we get the base 64 code and decode it to get the password
