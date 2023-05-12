@@ -1,0 +1,10 @@
+Bluetooth - File unknown
+
+Start the challenge
+Open ch18.bin file with Wireshark
+Wireless
+
+Bluetooth equipment
+
+Concatenate uppercase MAC address with phone name
+Convert to Sha1 and get the hash
